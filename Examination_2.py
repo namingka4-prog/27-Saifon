@@ -6,5 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input(12))
+b = int(input(31))
+# print="a is greater"(a>b)
+# print="B is greater or equal"(A <= B)
