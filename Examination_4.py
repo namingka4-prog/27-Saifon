@@ -6,4 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-color = input()
+input = ("สัญญาณไฟจราจร")
+print "stop":("red")
+print "slow":("yellow")
+print "Go":("green")
